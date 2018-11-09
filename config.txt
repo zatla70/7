@@ -1,5 +1,5 @@
 token=NTEwMjU3MzU3OTA1NzIzMzkz.DsZtyQ.57OUJnYVKxLNWI9TJBkShG2DsJ4
-owner=410421617869455370
+owner=466011381963948039
 prefix=7
 game=Type 7help
 stayinchannel=true
